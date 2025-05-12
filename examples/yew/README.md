@@ -78,7 +78,4 @@
    trunk serve --port 3000
    ```
 
-1. Uncomment this line:
-   https://github.com/opensass/accordion-rs/blob/a627aa2376ad792336f926ead85ace7c3b7e856d/examples/yew/index.html#L5
-
 Navigate to http://localhost:3000 to explore all available components.
