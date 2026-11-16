@@ -1,10 +1,10 @@
 [package]
 name = "leptos-accordion-rs"
 version = "0.1.0"
-edition = "2021"
+edition = "2024"
 
 [dependencies]
-console_error_panic_hook = "0.1.7"
 accordion-rs = { path = "../../", features = ["lep"] }
-leptos = { version = "0.7.7", features = ["csr"] }
+console_error_panic_hook = "0.1.7"
+leptos = { version = "0.8.23", features = ["csr"] }
 wasm-logger = "0.2.0"
